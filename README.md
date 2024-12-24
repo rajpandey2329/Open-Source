@@ -40,7 +40,7 @@ To get started, ensure the following are installed on your system:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/analog-layout-generator.git
+   git clone https://github.com/rajpandey2329/Open-Source.git
    cd analog-layout-generator
    ```
 2. Install dependencies:
